@@ -7,7 +7,7 @@
     <a href="mailto:gabilusosa@gmail.com">
         <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://tu-portfolio.com">
+    <a href="https://tamaragsosa.github.io/My-Porfolio/">
         <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
 </div>
