@@ -1,7 +1,7 @@
 ## Hola , Mi nombre es **Gabriela** <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"><br>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/gabriela-tamara-sos">
+    <a href="https://www.linkedin.com/in/gabriela-tamara-sosa">
         <img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" />
     </a>
     <a href="mailto:gabilusosa@gmail.com">
